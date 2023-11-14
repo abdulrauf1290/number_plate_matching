@@ -1,0 +1,7 @@
+numpy 
+matplotlib
+easyocr
+Image
+requests
+pytesseract
+Output
